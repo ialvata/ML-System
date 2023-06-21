@@ -4,7 +4,6 @@ This will be a template for a simple ML system touching from data extraction to 
 # Data
 Jena Climate dataset recorded by the Max Planck Institute for Biogeochemistry. The dataset consists of 14 features such as temperature, pressure, humidity etc, recorded once per 10 minutes.
 
-# Metadata
 |Index |	Features  | Format | Description |
 | ----------- | ----------- | ----------- | ----------- |
 |1 | Date Time |	01.01.2009 00:10:00  |	Date-time reference|
